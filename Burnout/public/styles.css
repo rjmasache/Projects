@@ -1,0 +1,58 @@
+section {
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    background-color: #003f72;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: .5em auto;
+    color: #003f72;
+    color: #F4AB14;
+}
+
+h3 {
+    margin: 1em 5em;
+    color: #003f72;
+}
+
+h4 {
+    font-weight: bold;
+    margin: 1em auto;
+    color: #F4AB14;
+    color: #003f72;
+}
+
+h5 {
+    margin: 1em auto;
+    color: #003f72;
+}
+
+.container {
+    line-height: 2em;
+}
+
+.logotipo {
+    margin: .5em 3em;
+    width: 50px;
+}
+
+.logo-utpl {
+    margin-right: 3em;
+    width: 150px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3em auto;
+}
+
+.btn {
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
